@@ -1,11 +1,3 @@
-makeEmptyString = function(){
+createEmptyString = function(){
   return [] + [];
-}
-
-isZero = function() {
-  return {} + [];
-}
-
-isNaN = function() {
-  return {} + {};
 }
